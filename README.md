@@ -1,4 +1,4 @@
-# HEART-DISEASE-PREDICTION-PROJECT-PRECISION-0.96-
+# HEART-DISEASE-PREDICTION-PROJECT-PRECISION-(0.96%)
 Project Title: Heart Disease Prediction with Machine Learning
 
 Project Description: This project uses machine learning to predict whether a patient has heart disease or not. The model was trained on a dataset of patient records, and it achieved a precision of 0.96%. This means that the model correctly identified 96% of the patients who had heart disease.
